@@ -1,0 +1,8 @@
+#ifndef A0503C28_212C_4AFB_8D8B_3B0BC9326DA2
+#define A0503C28_212C_4AFB_8D8B_3B0BC9326DA2
+
+#include <string>
+
+std::string local_time();
+
+#endif /* A0503C28_212C_4AFB_8D8B_3B0BC9326DA2 */
